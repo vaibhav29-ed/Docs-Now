@@ -1,2 +1,3 @@
 # Docs-Now
-Working on AI-ENALBLED talking witt documents, basically (talk with your document)
+
+Docs-Now is an AI-enabled project designed for conversational interaction with documents, allowing users to talk directly with their document files.
